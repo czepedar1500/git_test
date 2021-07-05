@@ -1,1 +1,1 @@
-I am trying figure out how Git works.
+I am trying to figure out how Git works.
